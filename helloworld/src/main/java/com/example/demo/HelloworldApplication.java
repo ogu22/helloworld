@@ -10,6 +10,7 @@ public class HelloworldApplication {
 		SpringApplication.run(HelloworldApplication.class, args);
 		System.out.print("おぐま");
 		System.out.print("りく");
+		System.out.println("くずく");
 	}
 
 }
