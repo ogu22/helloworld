@@ -11,6 +11,7 @@ public class HelloworldApplication {
 		System.out.print("おぐま");
 		System.out.print("りく");
 		System.out.println("くずく");
+		//コメント
 	}
 
 }
